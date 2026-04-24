@@ -1,0 +1,16 @@
+schema_version = "1.0.0"
+
+id = "bb_fracture"
+version = "1.2.1"
+name = "BB Fracture"
+tagline = "Boolean fracture using BoolA and BoolB cutters"
+maintainer = "Blender Bob and Claude AI"
+type = "add-on"
+
+tags = ["Mesh"]
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
